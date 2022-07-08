@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Simply `cat` the two fastas together!
+# Just `cat` the two fastas together
 #
 # Files downloaded from http://aten.reefgenomics.org/download/ and
 # https://espace.library.uq.edu.au/view/UQ:8279c9a/Cladocopium_goreaui.zip?dsi_version=b32c42da081efc36eaa5d8118d322bc6
