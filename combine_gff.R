@@ -4,7 +4,10 @@ library(GenomicRanges)
 library(rtracklayer)
 library(data.table)
 
+# downloaded from http://aten.reefgenomics.org/download/
 host_gff_file <- "data/aten_0.11.maker_post_001.genes.gff.gz"
+# downloaded from
+# https://espace.library.uq.edu.au/view/UQ:8279c9a/Cladocopium_goreaui.zip?dsi_version=b32c42da081efc36eaa5d8118d322bc6
 symb_gff_file <- unzip("data/Cladocopium_goreaui.zip",
                        "Cladocopium_goreaui/Cladocopium_goreaui.gff.gz")
 
